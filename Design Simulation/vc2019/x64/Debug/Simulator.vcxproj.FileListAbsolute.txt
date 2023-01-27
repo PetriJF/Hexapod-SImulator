@@ -1,0 +1,2 @@
+C:\Users\james\Simulator\vc2019\x64\Debug\Simulator.exe
+D:\Licenta\Simulator\vc2019\x64\Debug\Simulator.exe
